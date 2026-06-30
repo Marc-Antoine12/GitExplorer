@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="GitExplorer.Api/GitExplorer.Api.csproj" />
+  <Project Path="GitExplorer.Core/GitExplorer.Core.csproj" />
+  <Project Path="GitExplorer.Data/GitExplorer.Data.csproj" />
+  <Project Path="GitExplorer.Tests/GitExplorer.Tests.csproj" />
+</Solution>
